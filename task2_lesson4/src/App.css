@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+button{
+  font-size: 15px;
+  font-weight: 500; 
+  border: darkblue solid 1px;
+  border-radius: 7px;
+  background-color: rgba(12, 197, 221, 0.61);
+  color:rgb(44, 6, 41)
+}
+
+h1{
+  font-size: 25px;
+  font-style: italic;
+  color: cadetblue;
+}
+
+h2{
+  font-size: 30px;
+  font-weight: 800;
+  color: rgb(118, 131, 247);
+}
+
+h3{
+  font-size: 30px;
+  color: rgb(31, 42, 43);
+}

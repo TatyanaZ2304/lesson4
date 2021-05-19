@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+button{
+  width: 95px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  border: cornflowerblue solid 1px;
+  border-radius: 7px;
+  background-color:rgb(117, 227, 231);
+  color: rgb(21, 12, 29);
+}
+h1{
+  font-size: 30px;
+  font-style: italic;
+  color: rgb(45, 201, 149);
+}
+
+h2{
+  font-size: 25px;
+  color: rgb(20, 102, 224);
+}
+
+h3{
+  font-size: 25px;
+  color: rgb(33, 37, 43);
+}
